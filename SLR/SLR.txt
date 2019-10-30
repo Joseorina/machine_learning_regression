@@ -1,0 +1,4 @@
+correlation btn years of experience and salary
+Business value- Company has set of rules to set salarys
+	-model to apply to pay salaries
+	
